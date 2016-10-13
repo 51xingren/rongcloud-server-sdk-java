@@ -1,5 +1,6 @@
-package io.rong;
+package cn.rongcloud.example;
 
+import io.rong.RongCloud;
 import io.rong.messages.*;
 import io.rong.models.*;
 import io.rong.util.GsonUtil;
